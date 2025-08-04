@@ -1,3 +1,9 @@
+![Progress](https://img.shields.io/badge/Bandit%20Level-13%20of%2026-yellowgreen)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)
+![Goal](https://img.shields.io/badge/Goal-60k%2Fyr%20SOC%20Job-green)
+![Student](https://img.shields.io/badge/CSU%20Global-Cybersecurity%20Cert-blue)
+
+
 bandit-solutions
 # Bandit – OverTheWire Solutions
 
@@ -201,6 +207,7 @@ note: this one challended me to use the `man` for every tool i wanted to use. It
 
 ## Level 13 → Level 14
       coming soon...
+
 
 
 
