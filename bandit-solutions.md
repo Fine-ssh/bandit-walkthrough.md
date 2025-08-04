@@ -1,10 +1,7 @@
 bandit-solutions
 # Bandit – OverTheWire Solutions
 
-## Level 0 → Level 1
-**Login:**  
-```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+
 
 Solution:
 cat readme
@@ -200,6 +197,7 @@ strings data8
 note: this one challended me to use the `man` for every tool i wanted to use. It was fun and took me a lot of hours (3hrs) my head kinda hurtz :P on to the next! 
 
 ## Level 13 → Level 14
+
 
 
 
