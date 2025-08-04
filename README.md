@@ -1,4 +1,4 @@
-# 🛡️ Bandit Walkthrough
+# Bandit Walkthrough
 
 ![Progress](https://img.shields.io/badge/Bandit%20Level-13%20of%2026-yellowgreen)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)
@@ -7,46 +7,18 @@
 
 ---
 
-Welcome to my personal walkthrough of the **Bandit wargame** from [OverTheWire](https://overthewire.org/wargames/bandit/). This repo is a log of my progress, commands, and lessons learned while working through each level.
+Welcome to my walkthrough for the Bandit wargame from OverTheWire.
+
+🧠 This repo is part of my cybersecurity learning journey.  
+📂 All solutions are my own work.  
+📖 Full walkthrough: [bandit-solutions.md](./bandit-solutions.md)
 
 ---
 
-## 📚 About Bandit
+## 🔐 License
 
-Bandit is a beginner-friendly wargame that teaches Linux command line skills, file manipulation, and basic cybersecurity principles. It's designed for people just getting into cybersecurity or ethical hacking.
-
----
-
-## 🚀 What's in this repo?
-
-- `bandit-solutions.md`: My level-by-level walkthrough with commands used and notes.
-- More files will be added as I go deeper through the wargames.
-
----
-
-## 🛠️ Tools Used
-
-- Ubuntu Server (via VirtualBox VM)
-- SSH
-- Linux command-line tools like `find`, `grep`, `tar`, `xxd`, `strings`, etc.
-
----
-
-## 📌 Goals
-
-- Learn basic Linux commands
-- Understand file system navigation
-- Build a foundation for SOC roles and ethical hacking
-- Complete all Bandit levels
-
----
-
-## ⚠️ Disclaimer
-
-This walkthrough is for educational purposes only. If you're playing Bandit, try it yourself first before peeking at solutions!
-
----
-
+This project is licensed under the MIT License.  
+See [LICENSE](./LICENSE) for details.
 ## 👋 Contact
 
 Feel free to fork this repo, give it a star, or reach out if you're also learning cybersecurity. Let's grow together.
