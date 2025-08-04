@@ -1,4 +1,4 @@
-# Bandit Walkthrough
+# 🛡️ Bandit Walkthrough
 
 ![Progress](https://img.shields.io/badge/Bandit%20Level-13%20of%2026-yellowgreen)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)
@@ -6,8 +6,6 @@
 ![Student](https://img.shields.io/badge/CSU%20Global-Cybersecurity%20Cert-blue)
 
 ---
-
-# 🛡️ Bandit Walkthrough
 
 Welcome to my personal walkthrough of the **Bandit wargame** from [OverTheWire](https://overthewire.org/wargames/bandit/). This repo is a log of my progress, commands, and lessons learned while working through each level.
 
