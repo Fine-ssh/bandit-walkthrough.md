@@ -1,6 +1,6 @@
 # Bandit Walkthrough
 
-![Progress](https://img.shields.io/badge/Bandit%20Level-13%20of%2026-yellowgreen)
+![Progress](https://img.shields.io/badge/Bandit%20Level-13%20of%2034-yellowgreen)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)
 ![Goal](https://img.shields.io/badge/Goal-60k%2Fyr%20SOC%20Job-green)
 ![Student](https://img.shields.io/badge/CSU%20Global-Cybersecurity%20Cert-blue)
