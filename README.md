@@ -18,7 +18,7 @@ Welcome to my walkthrough for the Bandit wargame from OverTheWire.
 ## 🔐 License
 
 This project is licensed under the MIT License.  
-See [LICENSE](./LICENSE) for details.
+See [LICENSE](./LICENSE.md) for details.
 ## 👋 Contact
 
 Feel free to fork this repo, give it a star, or reach out if you're also learning cybersecurity. Let's grow together.
