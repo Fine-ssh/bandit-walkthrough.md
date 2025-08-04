@@ -3,24 +3,19 @@
 ![Goal](https://img.shields.io/badge/Goal-60k%2Fyr%20SOC%20Job-green)
 ![Student](https://img.shields.io/badge/CSU%20Global-Cybersecurity%20Cert-blue)
 
-
 bandit-solutions
 # Bandit – OverTheWire Solutions
 
 ## Level 0 → Level 1
-**Login:**  
-```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
-
-Solution:
-cat readme
-
-## Level 1 → Level 2
-**Login:**  
-```bash
-ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 **Solution:**
+```bash
+cat readme
+
+## Level 1 → Level 2 
+
+**Solution:**
+```bash
 cat < -
 
 'What I Learned':
@@ -207,6 +202,7 @@ note: this one challended me to use the `man` for every tool i wanted to use. It
 
 ## Level 13 → Level 14
       coming soon...
+
 
 
 
